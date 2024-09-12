@@ -34,6 +34,11 @@ body {
     padding-left: 80px;
 }
 
+.ingredient img {
+    max-width: 100px;
+    height: 200px;
+}
+
 .ingredient {
     display: flex;
     flex-direction: column;
